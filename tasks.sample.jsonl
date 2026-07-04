@@ -1,0 +1,5 @@
+{"id": "arith-1", "prompt": "What is 17 * 23? Reply with just the number.", "expected": "391", "match": "numeric"}
+{"id": "capital-1", "prompt": "What is the capital city of Uganda? One word.", "expected": "Kampala", "match": "contains"}
+{"id": "logic-1", "prompt": "If all bloops are razzies and all razzies are lazzies, are all bloops definitely lazzies? Answer yes or no.", "expected": "yes", "match": "contains"}
+{"id": "extract-1", "prompt": "Extract the year from this sentence and reply with just the year: 'The dam was completed in 1954 after six years of work.'", "expected": "1954", "match": "numeric"}
+{"id": "hard-1", "prompt": "Prove step-by-step that the sum of the first n odd numbers equals n^2, then derive a closed form for the sum of the first n even numbers.", "expected": "n^2", "match": "contains"}
